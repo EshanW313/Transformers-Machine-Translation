@@ -1,5 +1,10 @@
 # English-German Neural Machine Translation using Transformer
 
+#### To-Do:
+
+- Upload and write about comparative analysis of different attention mechanisms
+- Upload new Transformer notebook and updated model weights file
+  
 ## Overview
 
 This project implements a Neural Machine Translation (NMT) system for translating English sentences to German using the Transformer architecture.
